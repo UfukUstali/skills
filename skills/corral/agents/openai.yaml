@@ -1,0 +1,3 @@
+interface:
+  display_name: "Corral"
+  short_description: "Manage a running corral instance"
