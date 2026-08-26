@@ -1,0 +1,15 @@
+{
+  "name": "ufuk",
+  "description": "Matt Pocock's skills plus a few of Ufuk's, as an installable Claude Code plugin.",
+  "owner": {
+    "name": "Ufuk Ustali"
+  },
+  "plugins": [
+    {
+      "name": "ufuk-skills",
+      "source": "./",
+      "description": "Matt Pocock's agent skills for real engineering, plus debrief, unslop, and a local HTML issue tracker.",
+      "category": "engineering"
+    }
+  ]
+}

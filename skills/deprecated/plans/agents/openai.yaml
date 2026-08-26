@@ -1,0 +1,3 @@
+interface:
+  display_name: "Plans"
+  short_description: "Layout of the plans directory and the decision tiers"

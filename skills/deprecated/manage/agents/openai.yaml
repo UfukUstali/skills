@@ -1,0 +1,5 @@
+interface:
+  display_name: "Manage"
+  short_description: "Which skill to reach for at each step of the plan workflow"
+policy:
+  allow_implicit_invocation: false

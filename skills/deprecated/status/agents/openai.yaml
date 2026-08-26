@@ -1,0 +1,5 @@
+interface:
+  display_name: "Status"
+  short_description: "Where the plan stands and what waits on the user"
+policy:
+  allow_implicit_invocation: false

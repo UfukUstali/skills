@@ -1,0 +1,5 @@
+interface:
+  display_name: "Breakdown"
+  short_description: "Break a plan into parallelizable tasks"
+policy:
+  allow_implicit_invocation: false

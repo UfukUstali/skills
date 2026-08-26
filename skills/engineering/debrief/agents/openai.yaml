@@ -1,0 +1,3 @@
+interface:
+  display_name: "Debrief"
+  short_description: "Hand-back overview for a reader who has seen none of the changes"

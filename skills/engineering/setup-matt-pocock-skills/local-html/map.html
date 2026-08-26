@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" data-kind="map" data-slug="<slug>">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Map: <Title></title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Map: <Title></h1>
+    <p class="meta">Wayfinder map. Tickets are questions; the frontier is what can be taken now.</p>
+  </header>
+
+  <h2>Destination</h2>
+  <p><!-- what reaching the end of this map looks like: the plan, decision, or change this effort is finding its way to. One or two lines; every session orients to it before choosing a ticket. --></p>
+
+  <h2>Notes</h2>
+  <p><!-- domain; skills every session should load; standing preferences for this effort --></p>
+
+  <h2>Tickets</h2>
+  <p class="legend"><span class="frontier-mark"></span>frontier: open, unblocked, unclaimed. Rendered from the ticket pages in this directory. Copy puts the ticket's path on the clipboard, to paste to an agent.</p>
+  <table>
+    <thead>
+      <tr><th>#</th><th>Ticket</th><th>Type</th><th>Mode</th><th>Status</th><th>Blocked by</th><th>Claimed</th><th></th></tr>
+    </thead>
+    <tbody id="tickets"><tr><td colspan="8">loading</td></tr></tbody>
+  </table>
+
+  <h2>Decisions so far</h2>
+  <ul>
+    <!-- the index: one line per closed ticket, the name as a link, then a one-line gist of the answer -->
+  </ul>
+
+  <h2>Not yet specified</h2>
+  <ul>
+    <!-- fog: in-scope questions not yet sharp enough to ticket; graduates as the frontier advances -->
+  </ul>
+
+  <h2>Out of scope</h2>
+  <ul>
+    <!-- work ruled beyond the destination, one line each with why; never graduates -->
+  </ul>
+
+  <script src="map.js"></script>
+</body>
+</html>

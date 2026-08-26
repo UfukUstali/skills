@@ -1,0 +1,5 @@
+interface:
+  display_name: "Align"
+  short_description: "Reach a shared plan through rounds of questions"
+policy:
+  allow_implicit_invocation: false

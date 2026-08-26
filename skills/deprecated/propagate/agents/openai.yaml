@@ -1,0 +1,5 @@
+interface:
+  display_name: "Propagate"
+  short_description: "Carry the user's hand edits through code, plan, tasks, and reports"
+policy:
+  allow_implicit_invocation: false
