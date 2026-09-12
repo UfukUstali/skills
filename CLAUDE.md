@@ -1,6 +1,6 @@
 # Skills
 
-Matt Pocock's agent skills, copied verbatim from `~/projects/personal/matt-skills` (commit `5b15a47`), plus this repo's own additions and the Nuxt UI skill. Each skill directory holds a `SKILL.md` and an `agents/openai.yaml`.
+Matt Pocock's agent skills, copied verbatim from `~/projects/personal/matt-skills` (commit `5b15a47`), plus this repo's own additions, Nuxt UI, and Anthropic's frontend-design skill. Each skill directory holds a `SKILL.md` and an `agents/openai.yaml`.
 
 ## Layout
 
@@ -25,6 +25,7 @@ Every promoted skill not listed under Own or Other upstream skills below is a by
 ## Other upstream skills
 
 - `engineering/nuxt-ui` is copied verbatim from `~/projects/personal/ui/skills/nuxt-ui` at commit `2b29c33f4`, with `agents/openai.yaml` added. Update it by copying from that source.
+- `engineering/frontend-design` is copied verbatim from `~/projects/personal/anthropic-skills/skills/frontend-design` at commit `34040c9`, including `LICENSE.txt`, with `agents/openai.yaml` added. Update it by copying from that source.
 
 ## Invariants
 

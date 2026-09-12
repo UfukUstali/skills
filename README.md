@@ -2,7 +2,7 @@
 
 [Matt Pocock's skills](https://github.com/mattpocock/skills), copied verbatim, plus three things of my own: `debrief`, `unslop`(from [pstack](https://github.com/cursor/plugins/tree/main/pstack)), and a local HTML issue tracker. They run on Claude Code, Codex, and OpenCode.
 
-The [Nuxt UI skill](./skills/engineering/nuxt-ui/SKILL.md) is also included.
+The [Nuxt UI skill](./skills/engineering/nuxt-ui/SKILL.md) and Anthropic's [frontend-design skill](./skills/engineering/frontend-design/SKILL.md) are also included.
 
 ## Install
 
@@ -56,6 +56,7 @@ The pages link to one another and discover each other from the directory listing
 - **[debrief](./skills/engineering/debrief/SKILL.md)**: The hand-back overview for any piece of work, written for a reader who has seen none of the changes.
 
 - [nuxt-ui](./skills/engineering/nuxt-ui/SKILL.md). Build interfaces with Nuxt UI, customize themes, build forms, and compose page layouts.
+- [frontend-design](./skills/engineering/frontend-design/SKILL.md). Design new interfaces or reshape existing ones with intentional typography, color, and layout.
 
 ### Productivity
 
@@ -78,3 +79,5 @@ The pages link to one another and discover each other from the directory listing
 Except for the additions below, the engineering and productivity skills are [mattpocock/skills](https://github.com/mattpocock/skills) at commit `5b15a47`, unchanged apart from the three lines in `setup-matt-pocock-skills` that name the HTML tracker. `unslop` is from [pstack](https://github.com/cursor/plugins/tree/main/pstack). `debrief` and the HTML tracker are mine.
 
 `nuxt-ui` is copied verbatim from `~/projects/personal/ui/skills/nuxt-ui` at commit `2b29c33f4` in `nuxt/ui`, with `agents/openai.yaml` added.
+
+`frontend-design` is copied verbatim from `~/projects/personal/anthropic-skills/skills/frontend-design` at commit `34040c9` in `anthropics/skills`, including `LICENSE.txt`, with `agents/openai.yaml` added.
