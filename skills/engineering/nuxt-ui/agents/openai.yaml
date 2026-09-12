@@ -1,0 +1,3 @@
+interface:
+  display_name: "Nuxt UI"
+  short_description: "Build interfaces with Nuxt UI components and Tailwind CSS themes"

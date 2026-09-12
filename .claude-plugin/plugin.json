@@ -1,7 +1,7 @@
 {
   "name": "ufuk-skills",
   "version": "0.2.0",
-  "description": "Matt Pocock's agent skills for real engineering, plus debrief, unslop, and a local HTML issue tracker served from a global directory.",
+  "description": "Matt Pocock's agent skills for real engineering, plus Nuxt UI, debrief, unslop, and a local HTML issue tracker served from a global directory.",
   "author": {
     "name": "Ufuk Ustali"
   },
@@ -35,6 +35,7 @@
     "./skills/engineering/resolving-merge-conflicts",
     "./skills/engineering/wizard",
     "./skills/engineering/debrief",
+    "./skills/engineering/nuxt-ui",
     "./skills/productivity/grill-me",
     "./skills/productivity/grilling",
     "./skills/productivity/handoff",

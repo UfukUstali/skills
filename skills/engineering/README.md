@@ -31,3 +31,5 @@ Model- or user-reachable (rich trigger phrasing so the model can reach for them)
 - **[resolving-merge-conflicts](./resolving-merge-conflicts/SKILL.md)**: Work through an in-progress git merge or rebase conflict hunk by hunk, resolving by intent traced to each side's primary source, then finish the operation, never `--abort`.
 - **[wizard](./wizard/SKILL.md)**: Generate an interactive bash wizard that walks a human through steps only they can perform: provisioning infrastructure, setting up credentials or CI secrets, walking an unfamiliar third-party dashboard, or running a one-off migration or cutover.
 - **[debrief](./debrief/SKILL.md)**: The hand-back overview for any piece of work, written for a reader who has seen none of the changes: what changed in dependency order, the decisions made, the verification evidence, and what needs the user.
+
+- [nuxt-ui](./nuxt-ui/SKILL.md). Build interfaces with Nuxt UI, customize themes, build forms, and compose page layouts.

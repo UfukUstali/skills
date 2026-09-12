@@ -1,6 +1,6 @@
 # Skills
 
-Matt Pocock's agent skills, copied verbatim from `~/projects/personal/matt-skills` (commit `5b15a47`), plus this repo's own additions. Each skill directory holds a `SKILL.md` and an `agents/openai.yaml`.
+Matt Pocock's agent skills, copied verbatim from `~/projects/personal/matt-skills` (commit `5b15a47`), plus this repo's own additions and the Nuxt UI skill. Each skill directory holds a `SKILL.md` and an `agents/openai.yaml`.
 
 ## Layout
 
@@ -14,13 +14,17 @@ Every skill in `engineering/` or `productivity/` (the promoted buckets) has an e
 
 ## Matt's skills stay verbatim
 
-Every promoted skill not listed under Own below is a byte-for-byte copy of Matt's. To update one, copy it from `matt-skills` again; edits here get overwritten on the next copy. `ask-matt` is left as Matt wrote it, so it does not route to the skills under Own.
+Every promoted skill not listed under Own or Other upstream skills below is a byte-for-byte copy of Matt's. To update one, copy it from `matt-skills` again; edits here get overwritten on the next copy. `ask-matt` is left as Matt wrote it, so it does not route to the skills under Own.
 
 ## Own
 
 - `engineering/debrief`: the hand-back overview every piece of work ends with.
 - `productivity/unslop`: from pstack, with an `agents/openai.yaml` added.
 - `engineering/setup-matt-pocock-skills/issue-tracker-local-html.md` and the `local-html/` seed directory beside it: the fourth issue tracker, HTML pages under `~/.local/share/plans/<project>/`. The setup `SKILL.md` names it in three places (the exploration list, Section A's options, step 4's template list); those three lines are the only edits to a Matt skill.
+
+## Other upstream skills
+
+- `engineering/nuxt-ui` is copied verbatim from `~/projects/personal/ui/skills/nuxt-ui` at commit `2b29c33f4`, with `agents/openai.yaml` added. Update it by copying from that source.
 
 ## Invariants
 
